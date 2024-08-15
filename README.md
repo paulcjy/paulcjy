@@ -1,5 +1,3 @@
-블로그: <https://paulcjy.github.io/>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulcjy)](https://solved.ac/paulcjy/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=paulcjy&theme=dark)
 
